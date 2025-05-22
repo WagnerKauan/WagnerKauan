@@ -14,13 +14,13 @@ Sonho em construir produtos que realmente impactam pessoas e negócios.
 
 ## 🛠️ Tecnologias & Ferramentas
 
-![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css)
-![Prisma](https://img.shields.io/badge/-Prisma-0C344B?style=flat&logo=prisma)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react)  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)  
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase)  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)  
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css)  
+![Prisma](https://img.shields.io/badge/-Prisma-0C344B?style=flat&logo=prisma)  
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)  
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma)
 
 ---
@@ -34,14 +34,20 @@ Sonho em construir produtos que realmente impactam pessoas e negócios.
 
 ---
 
+## 💼 Portfólio Online
+
+Quer ver meus projetos, experiências e mais? Dá uma passada no meu site pessoal:  
+👉 [wagnerkauan.dev](https://wagnerkauan.dev)  
+
+---
+
 ## 📫 Contato
 
-[![Linkedin Badge](https://img.shields.io/badge/-Wagner-blue?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/seunome)](https://www.linkedin.com/in/wagner-kauan-a45032288)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:seuemail@gmail.com)](mailto:kauanw711@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Wagner-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wagner-kauan-a45032288)](https://www.linkedin.com/in/wagner-kauan-a45032288)  
+[![Gmail Badge](https://img.shields.io/badge/-kauanw711@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:kauanw711@gmail.com)](mailto:kauanw711@gmail.com)
 
 ---
 
 ### ⚡ Gostou? Deixa uma ⭐ nos meus repositórios!
 
 ---
-
