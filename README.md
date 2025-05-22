@@ -36,7 +36,7 @@ Sonho em construir produtos que realmente impactam pessoas e negócios.
 
 ## 📫 Contato
 
-[![Linkedin Badge](https://img.shields.io/badge/-Wagner-blue?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/seunome)](www.linkedin.com/in/wagner-kauan-a45032288)  
+[![Linkedin Badge](https://img.shields.io/badge/-Wagner-blue?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/seunome)](https://www.linkedin.com/in/wagner-kauan-a45032288)
 [![Gmail Badge](https://img.shields.io/badge/-seuemail@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:seuemail@gmail.com)](mailto:kauanw711@gmail.com)
 
 ---
