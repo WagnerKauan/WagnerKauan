@@ -36,28 +36,12 @@ Sonho em construir produtos que realmente impactam pessoas e negócios.
 
 ## 📫 Contato
 
-[![Linkedin Badge](https://img.shields.io/badge/-Wagner-blue?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/seunome)](https://linkedin.com/in/seunome)  
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:seuemail@gmail.com)](mailto:seuemail@gmail.com)
-
----
-
-## 📈 GitHub Stats
-
-![Wagner's GitHub stats](https://github-readme-stats.vercel.app/api?username=seuuser&show_icons=true&theme=radical)
-
----
-
-## 🐍 Snake Game no seu perfil (GitHub Actions)
-
-<img src="https://github.com/seuuser/seuuser/blob/output/github-contribution-grid-snake.svg" alt="snake game" />
+[![Linkedin Badge](https://img.shields.io/badge/-Wagner-blue?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/seunome)](www.linkedin.com/in/wagner-kauan-a45032288)  
+[![Gmail Badge](https://img.shields.io/badge/-seuemail@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:seuemail@gmail.com)](mailto:kauanw711@gmail.com)
 
 ---
 
 ### ⚡ Gostou? Deixa uma ⭐ nos meus repositórios!
 
 ---
-
-<!--
-**seuuser/seuuser** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile.
--->
 
