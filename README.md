@@ -37,7 +37,7 @@ Sonho em construir produtos que realmente impactam pessoas e negócios.
 ## 💼 Portfólio Online
 
 Quer ver meus projetos, experiências e mais? Dá uma passada no meu site pessoal:  
-👉 [wagnerkauan.dev](https://wagnerkauan.dev)  
+👉 [wagnerkauan.dev](https://wagnerk-dev.netlify.app/)  
 
 ---
 
