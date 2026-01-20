@@ -31,6 +31,8 @@ Sonho em construir produtos que realmente impactam pessoas e negócios.
 | ----------- | ---------------------------------- | --------------------------------------------|
 | TaskFlow    | Organização de tarefas simples e eficiente | [taskflow-fs.netlify.app](https://taskflow-fs.netlify.app/)  |
 | Helpify     | Mini CRM para gestão de empresas e chamados | [helpify-pro.netlify.app](https://helpify-pro.netlify.app/)  |
+| Trenntine    | Sistema completo para pizzarias | [https://trenntine-pizzaria.vercel.app/)  |
+| OdontoPRO     | Sass completo para clínicas odontológicas | [https://odonto-pro-brown.vercel.app/)  |
 
 ---
 
